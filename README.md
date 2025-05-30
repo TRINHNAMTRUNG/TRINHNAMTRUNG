@@ -1,5 +1,5 @@
 
-## 💫 About Me:
+## 👋 Hi everyone ヾ(＾∇＾)✨
 ### Trịnh Nam Trung: Node.js Backend Developer<br>
 I'm Trịnh Nam Trung, a Node.js Backend Developer from Vietnam. I specialize in building robust and efficient backend systems using JavaScript and TypeScript. My experience includes working with popular frameworks like Express.js and NestJS.<br><br>While my primary focus is backend development, I also have foundational knowledge of frontend frameworks such as React.js, React Native, and Tailwind CSS. This allows me to understand the full stack and contribute to seamless integration between the frontend and backend.<br><br>What I love most about backend development is crafting scalable architectures and ensuring smooth, efficient data flow. I enjoy learning new technologies and continuously improving my skills to build innovative and impactful solutions.<br><br>I am currently looking for job opportunities where I can use my backend expertise, work with talented teams, and keep growing as a developer. If you have a project or position that matches my experience and interests, feel free to reach out!
 
