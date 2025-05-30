@@ -83,7 +83,7 @@ I'm Trịnh Nam Trung, a Node.js Backend Developer from Vietnam. I specialize in
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Rest Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">RestAPI</p>
+        <p style="padding: 0; margin: 0;">Redux</p>
       </div>
     </td>
     <td align="center" width="140">
