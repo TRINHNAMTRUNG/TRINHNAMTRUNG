@@ -121,7 +121,7 @@ I'm Trịnh Nam Trung, a Node.js Backend Developer from Vietnam. I specialize in
     </td>
      <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/TechStack/dockerswarm.png" alt="Dockerswarm Icon" style="width: 90px; height: 90px;" />
+        <img src="/TechStack/dockerswarmHD-removebg-preview.png" alt="Dockerswarm Icon" style="width: 90px; height: 90px;" />
         <p style="padding: 0; margin: 0;">Docker Swarm</p>
       </div>
     </td>
